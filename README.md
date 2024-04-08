@@ -40,6 +40,11 @@ npm run lint
 npm run format
 ```
 
-### For service
-
+### For service setup and usage
+```sh
+git clone git@github.com:rehagursel/basic-express-api.git
+```
+```sh
+node server.js
+```
 
